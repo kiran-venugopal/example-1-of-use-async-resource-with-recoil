@@ -1,0 +1,28 @@
+h1,
+p {
+  font-family: Lato;
+}
+.post-item {
+  border: 1px solid #e2e2e2;
+  padding: 10px;
+  background: #f7f7f7;
+  cursor: pointer;
+}
+h3,
+.post-item {
+  margin: 10px;
+}
+#root {
+  font-family: sans-serif;
+}
+.comments {
+  display: block;
+  margin: 50px 15px 15px 15px;
+}
+.comment-item {
+  border: 1px solid #d6d6d6;
+  padding: 10px;
+  margin: 10px 0;
+  border-radius: 5px;
+  background: white;
+}
